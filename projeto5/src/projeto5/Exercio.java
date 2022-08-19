@@ -45,6 +45,7 @@ public class Exercio {
 	
 	
 	System.out.println("Aprendendo um pouco de fatorial");
+	System.out.println("Exercicio fatorial");
 	
 	
 		
